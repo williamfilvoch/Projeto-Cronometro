@@ -38,15 +38,15 @@ img {
 }
 
 .botoes {
-    color: #14fff1;
+    color: #4bff14;
     background: rgb(0, 0, 0);
     padding: 6px 16px;
     border: 4px solid ;
     border-radius: 16px;
     cursor: pointer;
-    font-family: 'Roboto', sans-serif  #14fff1 ;
+    font-family: 'Roboto', sans-serif  #14ff14 ;
     font-size: 1em;
-    box-shadow: 2px 1px rgba(20, 255, 241, 0.6) ;
+    box-shadow: 2px 1px rgba(28, 255, 20, 0.6) ;
 }
 
 .ativo {
@@ -55,3 +55,6 @@ img {
     box-shadow:none;
 }
 
+.div-bottom {
+    margin:30px 0;
+}
